@@ -1,9 +1,9 @@
 # Monitoria-ES-Git
 
 ### Autores
--Vinícius da Rosa Silva
+*Vinícius da Rosa Silva
 
--Ricardo Ferreira
+*Ricardo Ferreira
 
 ### Inspirações da Aula
 
@@ -11,6 +11,13 @@
 
 [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 
+### Roteiro
+
+1. Configurando a Ferramenta;
+2. Fazendo o primeiro commit;
+3. Trabalhando com Branchs;
+4. Issues e Milestones;
+5. Extensões para facilitar a vida - VScode e ~GitHub Desktop~.
 
 
 
