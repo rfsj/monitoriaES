@@ -1,2 +1,2 @@
 Primeira monitoria de git é a melhor de todas
-o/
+git config --global credential.helper cache
